@@ -18,4 +18,5 @@
 nacos/nacos-server:v3.0.1
 mysql
 redis
+nginx
 
