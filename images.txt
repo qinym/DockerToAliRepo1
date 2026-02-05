@@ -19,5 +19,6 @@
 #mysql
 #redis
 #nginx
-bitnami/etcd
+#bitnami/etcd
+quay.io/coreos/etcd
 
