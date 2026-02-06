@@ -18,7 +18,7 @@
 #nacos/nacos-server:v3.0.1
 #mysql
 #redis
-nginx
-#bitnami/etcd
-#quay.io/coreos/etcd
+#nginx
+bitnami/etcd
+quay.io/coreos/etcd
 
